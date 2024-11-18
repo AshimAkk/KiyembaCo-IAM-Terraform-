@@ -16,4 +16,3 @@ Key Tasks:
 - Implement rules of least privilege 
 
 
-![Screenshot 2024-11-17 at 8 12 05 am](https://github.com/user-attachments/assets/13edb788-7839-4f79-a723-43d4500be42c)
